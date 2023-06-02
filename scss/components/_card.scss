@@ -3,6 +3,7 @@
 @use '../abstracts/mixins' as mix;
 
 .card {
+	width: 100%;
 	max-width: func.em(350);
 	padding: func.em(80) 0;
 	margin: 0 auto;
