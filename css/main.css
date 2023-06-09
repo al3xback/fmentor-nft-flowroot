@@ -254,6 +254,7 @@ ol {
   display: flow-root;
   float: left;
   max-width: 50%;
+  min-height: 1px;
   font-size: 0.9375em;
 }
 
