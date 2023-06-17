@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-nft-flowroot",
 	"version": "1.0.0",
-	"description": "nft project using display flow-root",
+	"description": "nft preview card component using display flow-root",
 	"main": "index.js",
 	"scripts": {
 		"dev": "sass --watch scss/main.scss css/main.css",
