@@ -20,7 +20,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Modern flow-root approach
+- Display flow-root approach
 - Mobile-first workflow
 
 ## Author
